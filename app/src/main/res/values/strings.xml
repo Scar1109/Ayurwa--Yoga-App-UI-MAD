@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AYURWA</string>
+    <string name="log_in">
+Log in
+</string>
+    <string name="ob_03_txt">Relaxing the body involves releasing tension and promoting a state of calmness and ease.</string>
+    <string name="skip_txt">Skip</string>
+
+    <string name="update">Update</string>
+    <string name="welcome_txt">WELCOME TO AYURWA</string>
+    <string name="update_info_txt">Update_info</string>
+    <string name="name_txt">Full Name</string>
+    <string name="email_txt">Email</string>
+    <string name="signup_txt">Sign Up</string>
+    <string name="signup_hint">Already a member ?Log in</string>
+    <string name="Progress_txt">Progress</string>
+    <string name="chat_btn">Chat with  Coaches</string>
+    <string name="email">jimifernando@gmail.com</string>
+    <string name="name_sample">Supuni Samarathunga</string>
+    <string name="get_start_btn">Get Started</string>
+    <string name="pwd_txt">Password</string>
+    <string name="bgn_txt">Beginners</string>
+    <string name="ob_02_txt">Yoga unites body, mind, and soul through postures, breathing, and meditation for holistic well-being.</string>
+
+</resources>

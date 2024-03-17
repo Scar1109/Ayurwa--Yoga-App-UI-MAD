@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="btn_color">#652132</color>
+    <color name="navbar_color">#d6a8ae</color>
+    <color name="PrimaryColor">#AB7474</color>
+    <color name="input_color">#DFD6D6</color>
+    <color name="text_color">#B5A0A0</color>
+    <color name="btn_color_2">#774C5B</color>
+    <color name="ob_bg_color">#FEECDE</color>
+</resources>
